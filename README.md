@@ -5,3 +5,5 @@
 2. **Reserve Integer:** Given a 32-bit signed integer, reverse digits of an integer.
 
 3. **Palindrome Number:** Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+4. **Binary Coded Decimal:** Convert each digit of a Decimal number to a binary number
