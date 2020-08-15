@@ -9,3 +9,5 @@
 4. **Binary Coded Decimal:** Convert each digit of a Decimal number to a binary number
 
 5. **Remove Duplicates From Sorted Array:**: Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
+
+6. **Square Root of a number:** Compute and return the square root of x, where x is guaranteed to be a non-negative integer.
